@@ -8,7 +8,6 @@ This project, **Smart Analytics Tool**, provides a comprehensive analysis of glo
 * **Link:** (https://raw.githubusercontent.com/CSSEGISandData/COVID19/master/csse_covid_19_data/csse_covid_19_daily_reports/01-01-2021.csv)
 
 ## Output Screenshots
-## Output Screenshots
 
 ![Project Output](https://github.com/likhitha-1231/Smart-Analytics-Tool/tree/main/Screenshots_3) 
 ## Instructions to Run the Project
